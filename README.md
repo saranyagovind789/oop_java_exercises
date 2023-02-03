@@ -60,5 +60,3 @@ We've created the Cat interface to get you started
 * The usage of encapsulation, abstraction, polymorphism and inheritance
 
 
-
-
